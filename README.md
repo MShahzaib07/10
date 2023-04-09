@@ -23,4 +23,3 @@ Numpad 8 and Numpad 2 - up/down
 Numpad 4 and Numpad 6 - +/-
 
 Numpad 5 - on/off the tweak
-# PASSWORD FOR ZIP ARCHIVE: 23
